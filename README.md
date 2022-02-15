@@ -1,6 +1,6 @@
 ## Olá eu sou o João Pedro Alves, estudante de Desenvolvimento Web! #souTrybe
 <div>
-  <a href="https://https://github.com/Joao7001">
+  <a href="https://github.com/Joao7001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao7001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 ### Aprendendo:
