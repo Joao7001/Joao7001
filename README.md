@@ -1,10 +1,9 @@
-### Olá, me chamo João Pedro.
-  ## 
-
+## Olá eu sou o João Pedro Alves, estudante de Desenvolvimento Web! #souTrybe
 <div>
   <a href="https://https://github.com/Joao7001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao7001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
+### Aprendendo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
