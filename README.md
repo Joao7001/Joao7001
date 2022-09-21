@@ -3,8 +3,8 @@
 <div>
   <p>Olá, me chamo João e atualmente estou estudando pela Trybe, Estudando BackEnd para no futuro me tornar DevJr de BackEnd </p>
   <a href="https://github.com/Joao7001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao7001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao7001&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Joao7001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao7001&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 
