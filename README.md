@@ -1,7 +1,7 @@
-## Olá eu sou o João Pedro Alves, estudante de Desenvolvimento Web! #souTrybe
+## Olá eu sou o João Pedro Alves, estudante de Desenvolvimento Web!
 <h4 align="center">Front-end developer. </h4>
 <div>
-  <p>Olá, me chamo João e atualmente estou estudando pela Trybe, Estudando BackEnd para no futuro me tornar DevJr de BackEnd </p>
+  <p>Olá, me chamo João, Estudando para no futuro me tornar DevJr de FrontEnd </p>
   <a href="https://github.com/Joao7001">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Joao7001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao7001&layout=compact&langs_count=7&theme=radical"/>
